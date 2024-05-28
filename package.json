@@ -1,0 +1,21 @@
+{
+  "name": "svg-spriter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^23.0.1",
+    "svg-sprite": "^2.0.2",
+    "xml2js": "^0.6.2",
+    "xmldom": "^0.6.0"
+  },
+  "devDependencies": {
+    "svgo": "^3.1.0"
+  }
+}
